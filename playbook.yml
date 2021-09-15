@@ -6,3 +6,6 @@
   - name: first task
     debug:
       msg: first task
+  - name: second task
+    debug:
+      msg: second task
