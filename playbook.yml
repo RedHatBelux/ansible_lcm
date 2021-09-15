@@ -9,3 +9,6 @@
   - name: second task
     debug:
       msg: second task
+  - name: third task
+    debug:
+      msg: third task
